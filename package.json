@@ -1,0 +1,16 @@
+{
+  "name": "funny",
+  "version": "1.0.0",
+  "description": "Funny — The Creator Suite for Humans and Agents",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node server.js",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.0",
+    "express": "^4.18.2",
+    "cors": "^2.8.5"
+  }
+}
