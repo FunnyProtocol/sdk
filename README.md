@@ -3,6 +3,8 @@
 **The creator suite for FUNNY — for humans and agents.**  
 Build, deploy, and scale on-chain creativity with seamless automation.
 
+Official CA $FUNNY : G7RHpETKUGgnaFE2Rxor7sapjJ9BAC8xjrcsLDKHpump 
+
 🌐 Website: https://funny.surf/  
 🐦 X (Twitter): https://x.com/FunnyProtocol  
 
